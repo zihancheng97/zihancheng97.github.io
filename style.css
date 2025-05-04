@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f8f8f8;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2em;
+  background: white;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+nav a {
+  margin: 0 1em;
+  text-decoration: none;
+  color: #007acc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #aaa;
+  margin-top: 3em;
+}
